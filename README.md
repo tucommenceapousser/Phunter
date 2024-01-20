@@ -1,7 +1,7 @@
 <h1 align="center" id="title">🐁🐈 Phunter</h1>
 
 <p align="center">
-	<img src='assets/logo.png' height="200"/>
+	<img src='Screenshot_2024-01-20-05-31-33-954_com.android.chrome-edit.jpg' height="200"/>
 </p>
 
 [![python version](https://img.shields.io/badge/Python-3.10%2B-brightgreen)](https://www.python.org/downloads/)
